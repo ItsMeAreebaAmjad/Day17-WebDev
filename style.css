@@ -1,0 +1,164 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+nav{
+    height:75px;
+    width:100%;
+    padding: 0px 100px;
+    /* position:fixed; */
+    line-height: 75px;
+    background-color: none;
+}
+
+span{
+    /* color:red; */
+    color:black;
+}
+
+nav .logo{
+    font-size: 30px;
+    font-weight: bold;
+    float:left;
+    color:black;
+    text-transform: capitalize;
+    letter-spacing: 1.5px;
+}
+
+nav ul{
+float:right;
+}
+
+nav li{
+    display: inline-block;
+    list-style: none;
+}
+
+nav li a{
+    font-size: 18px;
+    text-transform: capitalize;
+    padding:0px 30px;
+    color:black;
+    text-decoration: none;
+}
+
+.secOne{
+    /* background-color: antiquewhite; */
+    height:600px;
+    width:100%;
+    margin-top: 0px;
+}
+
+#one{
+    padding-top: 200px;
+    /* font-family: sans-serif; */
+    font-weight: bold;
+    font-size: 59px;
+    padding-left: 90px;
+}
+
+p{
+    padding-top: 10px;
+    padding-left: 95px;
+}
+
+#two{
+    height:40px;
+    width:100px;
+    margin-top: 40px;
+    margin-left: 90px;
+    background-color: red;
+    color:white;
+    box-shadow: black;
+    border-radius: 5px;
+}
+
+#three{
+margin-left: 830px;
+margin-top: -450px;
+}
+
+.mng{
+    margin-left: 800px;
+    margin-top: -110px;
+}
+
+#four{
+    margin-left: 20px;
+    margin-top: -380px;
+}
+
+.para{
+    font-weight: bold;
+    font-size: 39px;
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+.secThree{
+    height:500px;
+    /* background-color: antiquewhite; */
+}
+
+.blockOne{
+    height:300px;
+    width:270px;
+    margin-left: 30px;
+    background-color: rgb(213, 217, 217);
+    border-radius: 5px;
+    margin-top: 80px;
+    margin-left: 190px;
+}
+
+.blockOne img{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.blockOne h2{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+
+.blockTwo{
+    height:300px;
+    width:270px;
+    /* margin-left: 3000px; */
+    background-color: rgb(213, 217, 217);
+    border-radius: 5px;
+    margin-top: -300px;
+    margin-left: 600px;
+}
+
+.blockTwo img{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.blockTwo h2{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.blockThree{
+    height:300px;
+    width:270px;
+    /* margin-left: 3000px; */
+    background-color: rgb(213, 217, 217);
+    border-radius: 5px;
+    margin-top: -300px;
+    margin-left: 1000px;
+}
+
+.blockThree img{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.blockThree h2{
+    padding-left: 50px;
+    padding-top: 20px;
+}
